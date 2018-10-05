@@ -11,7 +11,7 @@ public class CalcData {
 	 * @return 计算结果
 	 */
 	public double SumJQ() {
-
+		
 		double[] list_a = new double[] { 0, 2, 3 };
 
 		double[] list_b = new double[] { 3, 4, 3 };
